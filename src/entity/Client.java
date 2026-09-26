@@ -1,5 +1,7 @@
-package src.entity;
+package entity;
 
-public class Client {
-    
-}
+public record Client(
+    int id,
+    String nom,
+    String email
+) {}

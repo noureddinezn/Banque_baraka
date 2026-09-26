@@ -8,4 +8,6 @@ public class CompteCourant extends Compte {
         this.decouvertAutorise = decouvertAutorise;
     }
 
+    public double getDecouvertAutorise() { return decouvertAutorise; }
+
 }

@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ui.Main",
+            "projectName": "Banque_baraka_4af46c1a",
+            "vmArgs": "-Dfile.encoding=UTF-8",
+            "classPaths": [
+                "${workspaceFolder}/out",
+                "${workspaceFolder}/lib/mysql-connector-j-26.7.0.jar"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Run Banque Baraka",
+            "request": "launch",
+            "mainClass": "ui.Main",
+            "projectName": "Banque_baraka",
+            "vmArgs": "-Dfile.encoding=UTF-8",
+            "classPaths": [
+                "${workspaceFolder}/out",
+                "${workspaceFolder}/lib/mysql-connector-j-26.7.0.jar"
+            ]
+        }
+    ]
+}

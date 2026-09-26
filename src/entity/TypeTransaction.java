@@ -1,5 +1,7 @@
-package src.entity;
+package entity;
 
-public "class" TypeTransaction {
-    
+public enum TypeTransaction {
+    VERSEMENT,
+    RETRAIT,
+    VIREMENT
 }
