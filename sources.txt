@@ -1,0 +1,16 @@
+﻿C:\Users\noureddine\Banque_baraka\src\dao\ClientDAO.java
+C:\Users\noureddine\Banque_baraka\src\dao\CompteDAO.java
+C:\Users\noureddine\Banque_baraka\src\dao\TransactionDAO.java
+C:\Users\noureddine\Banque_baraka\src\entity\Client.java
+C:\Users\noureddine\Banque_baraka\src\entity\Compte.java
+C:\Users\noureddine\Banque_baraka\src\entity\CompteCourant.java
+C:\Users\noureddine\Banque_baraka\src\entity\CompteEpargne.java
+C:\Users\noureddine\Banque_baraka\src\entity\Transaction.java
+C:\Users\noureddine\Banque_baraka\src\entity\TypeTransaction.java
+C:\Users\noureddine\Banque_baraka\src\service\ClientService.java
+C:\Users\noureddine\Banque_baraka\src\service\CompteService.java
+C:\Users\noureddine\Banque_baraka\src\service\RapportService.java
+C:\Users\noureddine\Banque_baraka\src\service\TransactionService.java
+C:\Users\noureddine\Banque_baraka\src\ui\Main.java
+C:\Users\noureddine\Banque_baraka\src\ui\MenuController.java
+C:\Users\noureddine\Banque_baraka\src\util\DatabaseConnection.java

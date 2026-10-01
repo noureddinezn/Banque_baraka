@@ -17,7 +17,7 @@ public class DatabaseConnection {
         if (connection == null) {
             try {
                 connection = DriverManager.getConnection(URL, USER, PASSWORD);
-                System.out.println("Connexion a la base de donnees reussie !");
+                // System.out.println("Connexion a la base de donnees reussie !");
             } catch (SQLException e) {
                 System.err.println("Erreur de connexion a la base de donnees : " + e.getMessage());
             }
